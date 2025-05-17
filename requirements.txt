@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+dynaconf
+sqlalchemy
+confluent_kafka

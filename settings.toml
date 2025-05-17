@@ -1,0 +1,6 @@
+[kafka]
+bootstrap_servers = "localhost:29092"
+client_id = "notification-client"
+group_id = "notification-consumer"
+auto_offset_reset = "latest"
+topic = "notifications"
